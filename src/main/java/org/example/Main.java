@@ -32,8 +32,19 @@ public class Main {
        // System.out.println(myLinkedList.removeLast());
         System.out.println(myLinkedList.removeFirst().value);
         System.out.println(myLinkedList.get(1).value+ "\n");
-
         // myLinkedList.printList();
+
+
+        //Doubly Linked List
+        DoublyLinkedList myDDL = new DoublyLinkedList(1);
+        myDDL.append(2);
+        myDDL.prepend(7);
+        myDDL.set(2,0);
+        myDDL.insert(1,4);
+        myDDL.remove(2);
+        //System.out.println(myDDL.removeLast().value);
+        System.out.println(myDDL.removeFirst().value);
+        myDDL.printList();
 
     }
 
