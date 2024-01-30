@@ -1,4 +1,4 @@
-package org.example;
+package linkedlist;
 
 public class DoublyLinkedList {
     private Node head;
