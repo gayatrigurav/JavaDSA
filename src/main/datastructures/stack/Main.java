@@ -6,6 +6,8 @@ public class Main {
 
         myStack.getTop();
         myStack.getHeight();
+        myStack.push(8);
         myStack.printStack();
+        myStack.pop();
     }
 }

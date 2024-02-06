@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="HashTable">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/commonArrayQuestion/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/hashtable/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/hashtable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/hashtable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/stack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,32 +30,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bek9hRx7vbB7hnrMLzV15RAGvl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Program Files/Java/jdk-21/bin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/jdk-21/bin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +65,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706582783836</updated>
-      <workItem from="1706582785207" duration="5736000" />
+      <workItem from="1706582785207" duration="6390000" />
+      <workItem from="1706589316780" duration="5161000" />
+      <workItem from="1706637461074" duration="3435000" />
+      <workItem from="1706641085008" duration="3670000" />
+      <workItem from="1706644773552" duration="8245000" />
+      <workItem from="1706754881039" duration="6863000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -68,7 +80,63 @@
       <option name="project" value="LOCAL" />
       <updated>1706582894016</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LinkedList DS">
+      <option name="closed" value="true" />
+      <created>1706588831765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706588831765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LinkedList append and removelast method added">
+      <option name="closed" value="true" />
+      <created>1706591444414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706591444414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added methods in linkedList">
+      <option name="closed" value="true" />
+      <created>1706640199805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706640199805</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DoublyLinkedList">
+      <option name="closed" value="true" />
+      <created>1706645304190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706645304190</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Stack">
+      <option name="closed" value="true" />
+      <created>1706646544645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706646544645</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Queue and BTS commit">
+      <option name="closed" value="true" />
+      <created>1706755825817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706755825817</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HashTable">
+      <option name="closed" value="true" />
+      <created>1706760253617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706760253617</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +155,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="LinkedList DS" />
+    <MESSAGE value="LinkedList append and removelast method added" />
+    <MESSAGE value="added methods in linkedList" />
+    <MESSAGE value="DoublyLinkedList" />
+    <MESSAGE value="Stack" />
+    <MESSAGE value="Queue and BTS commit" />
+    <MESSAGE value="HashTable" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashTable" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/datastructures/binarySearchTree/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
