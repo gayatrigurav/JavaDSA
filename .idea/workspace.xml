@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="HashTable">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/datastructures/commonArrayQuestion/Main.java" afterDir="false" />
+    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="Factorial">
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/FindMissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/LevelOrderTraversalOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/LevelOrderTraversalUsingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/MergeSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/RandomPointerWithExtraSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/RandomPointerWithoutExtraSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/hashtable/HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/hashtable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/hashtable/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/stack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/linkedlist/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,82 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.LevelOrderTraversalUsingQueue$BinaryTree">
+    <configuration name="LevelOrderTraversalOfBinaryTree$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.LevelOrderTraversalOfBinaryTree$BinaryTree" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelOrderTraversalUsingQueue$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.LevelOrderTraversalUsingQueue$BinaryTree" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeMergeSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.PracticeMergeSortedList" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomPointerWithExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.RandomPointerWithExtraSpace" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomPointerWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.RandomPointerWithoutExtraSpace" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LevelOrderTraversalUsingQueue$BinaryTree" />
+        <item itemvalue="Application.LevelOrderTraversalOfBinaryTree$BinaryTree" />
+        <item itemvalue="Application.RandomPointerWithoutExtraSpace" />
+        <item itemvalue="Application.RandomPointerWithExtraSpace" />
+        <item itemvalue="Application.PracticeMergeSortedList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +148,15 @@
       <workItem from="1706637461074" duration="3435000" />
       <workItem from="1706641085008" duration="3670000" />
       <workItem from="1706644773552" duration="8245000" />
-      <workItem from="1706754881039" duration="6863000" />
+      <workItem from="1706754881039" duration="8871000" />
+      <workItem from="1707248087570" duration="9660000" />
+      <workItem from="1707424334118" duration="749000" />
+      <workItem from="1707438220269" duration="40000" />
+      <workItem from="1707438277036" duration="12000" />
+      <workItem from="1707438499262" duration="13000" />
+      <workItem from="1707774161523" duration="6262000" />
+      <workItem from="1707783171969" duration="2087000" />
+      <workItem from="1707785675262" duration="16929000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -136,7 +222,39 @@
       <option name="project" value="LOCAL" />
       <updated>1706760253617</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HashTable">
+      <option name="closed" value="true" />
+      <created>1707180944407</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707180944407</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Graph">
+      <option name="closed" value="true" />
+      <created>1707333893363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707333893363</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Heap">
+      <option name="closed" value="true" />
+      <created>1707356644764</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707356644764</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Factorial">
+      <option name="closed" value="true" />
+      <created>1707369765492</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707369765492</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +280,10 @@
     <MESSAGE value="Stack" />
     <MESSAGE value="Queue and BTS commit" />
     <MESSAGE value="HashTable" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashTable" />
+    <MESSAGE value="Graph" />
+    <MESSAGE value="Heap" />
+    <MESSAGE value="Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

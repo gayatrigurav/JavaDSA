@@ -27,6 +27,20 @@ public class Main {
         myLinkedList.insert(0,9);
         myLinkedList.remove(0);
 
+
+        LinkedList myLinkedList1 = new LinkedList(4);
+        myLinkedList1.append(8);
+        myLinkedList1.append(15);
+        myLinkedList1.append(19);
+        myLinkedList1.printList();
+
+        LinkedList myLinkedList2 = new LinkedList(7);
+        myLinkedList2.append(9);
+        myLinkedList2.append(10);
+        myLinkedList2.append(16);
+        myLinkedList2.printList();
+
+
        // System.out.println(myLinkedList.removeLast().value);
        // System.out.println(myLinkedList.removeLast().value);
        // System.out.println(myLinkedList.removeLast());
