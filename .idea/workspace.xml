@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="New coomit for DS queations">
-      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/DetermineIfBinaryTreeIsBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/IsBinarySearchTreeSolution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/OptimizedStringSegmentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/StringSegmentation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IsBinarySearchTreeSolution2">
+  <component name="RunManager" selected="Application.OptimizedStringSegmentation">
     <configuration name="DetermineIfBinaryTreeIsBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.DetermineIfBinaryTreeIsBinarySearchTree" />
       <module name="JavaDSA" />
@@ -78,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LevelOrderTraversalOfBinaryTree$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.LevelOrderTraversalOfBinaryTree$BinaryTree" />
-      <module name="JavaDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LevelOrderTraversalUsingQueue$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.LevelOrderTraversalUsingQueue$BinaryTree" />
       <module name="JavaDSA" />
@@ -104,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomPointerWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.RandomPointerWithoutExtraSpace" />
+    <configuration name="OptimizedStringSegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.OptimizedStringSegmentation" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.StringSegmentation" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptimizedStringSegmentation" />
+        <item itemvalue="Application.StringSegmentation" />
         <item itemvalue="Application.IsBinarySearchTreeSolution2" />
         <item itemvalue="Application.DetermineIfBinaryTreeIsBinarySearchTree" />
         <item itemvalue="Application.LevelOrderTraversalUsingQueue$BinaryTree" />
-        <item itemvalue="Application.LevelOrderTraversalOfBinaryTree$BinaryTree" />
-        <item itemvalue="Application.RandomPointerWithoutExtraSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1707438499262" duration="13000" />
       <workItem from="1707774161523" duration="6262000" />
       <workItem from="1707783171969" duration="2087000" />
-      <workItem from="1707785675262" duration="23716000" />
+      <workItem from="1707785675262" duration="27451000" />
+      <workItem from="1707882658070" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707842672648</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New coomit for DS queations">
+      <option name="closed" value="true" />
+      <created>1707853715584</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707853715584</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
