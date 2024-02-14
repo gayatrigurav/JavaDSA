@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="New coomit for DS queations">
-      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/OptimizedStringSegmentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/StringSegmentation.java" afterDir="false" />
+    <list default="true" id="be58a08e-67bd-4307-abad-4d25188467ef" name="Changes" comment="New commit for DS queations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/ReverseWordsInaSentense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/datastructures/AmazonInterviewQuestions/ReverseWordsInaSentense.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OptimizedStringSegmentation">
+  <component name="RunManager" selected="Application.ReverseWordsInaSentense">
     <configuration name="DetermineIfBinaryTreeIsBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.DetermineIfBinaryTreeIsBinarySearchTree" />
       <module name="JavaDSA" />
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LevelOrderTraversalUsingQueue$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.LevelOrderTraversalUsingQueue$BinaryTree" />
+    <configuration name="OptimizedStringSegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.OptimizedStringSegmentation" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptimizedStringSegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.OptimizedStringSegmentation" />
+    <configuration name="ReverseWordsInaSentense" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmazonInterviewQuestions.ReverseWordsInaSentense" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWordsInaSentense" />
         <item itemvalue="Application.OptimizedStringSegmentation" />
         <item itemvalue="Application.StringSegmentation" />
         <item itemvalue="Application.IsBinarySearchTreeSolution2" />
         <item itemvalue="Application.DetermineIfBinaryTreeIsBinarySearchTree" />
-        <item itemvalue="Application.LevelOrderTraversalUsingQueue$BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,7 @@
       <workItem from="1707774161523" duration="6262000" />
       <workItem from="1707783171969" duration="2087000" />
       <workItem from="1707785675262" duration="27451000" />
-      <workItem from="1707882658070" duration="2078000" />
+      <workItem from="1707882658070" duration="4819000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -263,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707853715584</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New commit for DS queations">
+      <option name="closed" value="true" />
+      <created>1707885107283</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707885107283</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +300,8 @@
     <MESSAGE value="Heap" />
     <MESSAGE value="Factorial" />
     <MESSAGE value="New coomit for DS queations" />
-    <option name="LAST_COMMIT_MESSAGE" value="New coomit for DS queations" />
+    <MESSAGE value="New commit for DS queations" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit for DS queations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
